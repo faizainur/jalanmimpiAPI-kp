@@ -1,0 +1,6 @@
+delete from addresses;
+delete from cities;
+delete from provinces;
+delete from countries;
+delete from user_profiles;
+

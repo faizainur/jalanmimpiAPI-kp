@@ -1,0 +1,10 @@
+DATABASE_URL=ec2-107-22-241-205.compute-1.amazonaws.com
+DATABASE_NAME=d4vdhamdrbp80b
+USER_NAME=rzzblqkdbtbmhg
+USER_PASSWORD=e7acdddec485eb62f8a58914021d16c07e00945bda16178a1bfd785e4236de8b
+POSTGRES_PORT=5432
+
+DATABASE_URL=localhost
+DATABASE_NAME=jalanmimpiv2
+USER_NAME=postgres
+USER_PASSWORD=postgres
